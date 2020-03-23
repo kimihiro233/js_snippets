@@ -1,4 +1,4 @@
-import szm from "./szm"
+import szm from "./szm.js"
 
 const result = szm('我是徐公博')
 
