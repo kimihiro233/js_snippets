@@ -12,6 +12,6 @@
   "license": "ISC",
   "dependencies": {
     "async-validator": "^3.2.4",
-    "yarn": "^1.19.1"
+    "yarn": "^1.22.0"
   }
 }
