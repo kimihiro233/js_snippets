@@ -11,7 +11,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "async-validator": "^3.2.4",
+    "async-validate": "^1.0.1",
+    "async-validator": "^3.3.0",
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
     "yarn": "^1.22.0"
   }
 }

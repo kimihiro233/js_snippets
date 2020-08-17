@@ -15,12 +15,12 @@ class Enum {
     this.property = {label, value}
     return this
   }
-  
+
   /**
    * 根据枚举value获取其label
    */
   getLabelByValue (value) {
-    // 字段不存在返回‘’
+    // 字段不存在返回''
     if (value === undefined || value === null) {
       return ''
     }
@@ -33,7 +33,7 @@ class Enum {
         return e.label
       }
     }
-    
+
     return ''
   }
 }
